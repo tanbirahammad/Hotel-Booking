@@ -12,7 +12,7 @@ const ExclusiveOffers = () => {
 
     <div className='flex flex-col md:flex-row items-center justify-between w-full'>
     <Title 
-    title=''
+    title='Exclusive Offers'
         align='left' 
         
         subtitle='Take advantage of our limited-time offers and special packages to enhance your stay and create unforgettable memories'
