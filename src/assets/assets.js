@@ -39,7 +39,7 @@ import totalBookingIcon from "./totalBookingIcon.svg";
 import totalRevenueIcon from "./totalRevenueIcon.svg";
 
 
-export const assets = {
+export  const assets = {
     logo,
     searchIcon,
     userIcon,
